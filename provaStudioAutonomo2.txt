@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 modifica numero 1, modifica numero 2, modifica 3 su ramo2
+=======
+modifica numero 1, modifica numero 2
+
+modifica numero 3 sul ramo,
+>>>>>>> 8a9ed509c42211dc090f0ba57fdb649126231c3f
